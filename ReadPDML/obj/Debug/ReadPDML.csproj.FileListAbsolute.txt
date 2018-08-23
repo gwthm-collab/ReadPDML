@@ -1,0 +1,6 @@
+c:\users\gwthm\documents\visual studio 2015\Projects\ReadPDML\ReadPDML\bin\Debug\ReadPDML.exe.config
+c:\users\gwthm\documents\visual studio 2015\Projects\ReadPDML\ReadPDML\bin\Debug\ReadPDML.exe
+c:\users\gwthm\documents\visual studio 2015\Projects\ReadPDML\ReadPDML\bin\Debug\ReadPDML.pdb
+c:\users\gwthm\documents\visual studio 2015\Projects\ReadPDML\ReadPDML\obj\Debug\ReadPDML.csprojResolveAssemblyReference.cache
+c:\users\gwthm\documents\visual studio 2015\Projects\ReadPDML\ReadPDML\obj\Debug\ReadPDML.exe
+c:\users\gwthm\documents\visual studio 2015\Projects\ReadPDML\ReadPDML\obj\Debug\ReadPDML.pdb
