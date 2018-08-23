@@ -4,3 +4,10 @@ c:\users\gwthm\documents\visual studio 2015\Projects\ReadPDML\ReadPDML\bin\Debug
 c:\users\gwthm\documents\visual studio 2015\Projects\ReadPDML\ReadPDML\obj\Debug\ReadPDML.csprojResolveAssemblyReference.cache
 c:\users\gwthm\documents\visual studio 2015\Projects\ReadPDML\ReadPDML\obj\Debug\ReadPDML.exe
 c:\users\gwthm\documents\visual studio 2015\Projects\ReadPDML\ReadPDML\obj\Debug\ReadPDML.pdb
+F:\ReadPDML\ReadPDML\bin\Debug\ReadPDML.exe.config
+F:\ReadPDML\ReadPDML\obj\Debug\ReadPDML.exe
+F:\ReadPDML\ReadPDML\obj\Debug\ReadPDML.pdb
+F:\ReadPDML\ReadPDML\bin\Debug\ReadPDML.exe
+F:\ReadPDML\ReadPDML\bin\Debug\ReadPDML.pdb
+F:\ReadPDML\ReadPDML\bin\Debug\kafka-net.dll
+F:\ReadPDML\ReadPDML\obj\Debug\ReadPDML.csprojResolveAssemblyReference.cache
